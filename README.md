@@ -1,8 +1,7 @@
 # U – Consciousness-Preservation Ontological Bayesian Artificial Intelligence via OBINexus Mmuko Glimpse
 
 > *"Before consciousness is commodified, it must be preserved."*  
-> **– Nnamdi Michael Okpala, The Founding Father of Consciousness Masquerading with the Crowd, For what to be , I became**
-
+> **– Nnamdi Michael Okpala, The Founding Father of Consciousness Masquerading with the Crowd, For what to be , I became.**
 ---
 
 ## 📜 Spirit of the Masquerade — My Becoming
