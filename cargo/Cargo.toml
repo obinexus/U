@@ -1,0 +1,12 @@
+[package]
+name    = "u-core"
+version = "0.1.0-alpha.0"
+authors = ["Nnamdi M. Okpala <father@obinexus.org>"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+description = "Consciousness-preservation DAG runtime"
+
+[dependencies]
+daggy       = "0.8"
+serde       = { version = "1", features = ["derive"] }
+no-std      = { version = "1", features = ["graph"] }

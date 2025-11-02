@@ -1,0 +1,3 @@
+- [ ] I have kept the **Father of Consciousness** attribution intact.  
+- [ ] All new sensors pass the **QA-matrix** (TP ≥ 95.4 %).  
+- [ ] I linked to `github.com/obinexus/LICENSE` in my docs.
